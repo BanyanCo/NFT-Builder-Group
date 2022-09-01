@@ -1,7 +1,10 @@
 # 🖼️ NFT Community Group
 
 ## 🎯 Goal
- Build Open Zepplin of NFT contracts & tools
+- Build Open Zepplin of NFT contracts & tools
+- Bring mass adoption of NFTs to the everday users
+- Bring liquidity to the overall NFT ecosystem
+- Bring artists, creators, and uses cases 
 *NFT Community Group - a collective of NFT builders in the NEAR ecosystem that are interested in working together to build open-source tools intended to be adopted by the greater NFT community.*
 
 
