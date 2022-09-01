@@ -1,2 +1,2 @@
-# Vision-Groups
-Visions Groups to shape the NEAR Ecosystem / Protocol
+# NFT Community Group
+NFT Communtiy Group to shape the NEAR Ecosystem / Protocol
